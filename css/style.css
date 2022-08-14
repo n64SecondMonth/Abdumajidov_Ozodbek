@@ -477,3 +477,53 @@ input{
     flex-direction: column;
 
 }
+.pricing-p{
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+.price-title{
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.button1{
+    background-color: #02897A;
+    width: 180px;
+    height: 35px;
+    color: white;
+    border-color:#02897A;
+}
+.enterprice{
+    margin-bottom: 80px;
+}
+.being{
+    margin-top: 20px;
+}
+.managment-img2{
+    margin-right: 30px;
+}
+.freq{
+    margin-top: 190px;
+}
+.freq{
+    width: 80%;
+    margin: 0 auto;
+}
+.freq-item{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.item-p{
+    font-size: 15px;
+    font-weight: normal;
+    margin-top: 10px;
+}
+.fa-circle-plus{
+    color: #02897A;
+    margin-right: 12px;
+}
+.fa-circle-minus{
+    color: #02897A;
+    margin-right: 12px;
+}
